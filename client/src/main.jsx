@@ -1,4 +1,4 @@
-cdimport ReactDOM from 'react-dom/client'
+import ReactDOM from 'react-dom/client'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
